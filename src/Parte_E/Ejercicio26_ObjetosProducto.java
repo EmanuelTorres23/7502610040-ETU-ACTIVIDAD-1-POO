@@ -1,4 +1,4 @@
-package Parte_D;
+package Parte_E;
 
 public class Ejercicio26_ObjetosProducto {
     String nombre;
