@@ -3,8 +3,8 @@ package Parte_D;
 public class Ejercicio20_TresObjetos {
     /*
      - Explicación por escrito:
-     - Qué comparten: Todos comparten la misma estructura, atributos (marca, modelo, velocidadActual)
-     -   y métodos, ya que se han creado a partir de la misma clase.
+      Qué comparten: Todos comparten la misma estructura, atributos (marca, modelo, velocidadActual)
+      y métodos, ya que se han creado a partir de la misma clase.
      - En qué se diferencian: Se diferencian en los valores específicos que tienen asignados en sus
      -   atributos (su estado individual) y en que ocupan espacios de memoria diferentes.
      */

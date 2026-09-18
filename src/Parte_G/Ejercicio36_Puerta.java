@@ -1,4 +1,4 @@
-package Parte_F;
+package Parte_G;
 
 public class Ejercicio36_Puerta {
     String material;
